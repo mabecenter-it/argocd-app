@@ -1,7 +1,7 @@
 services:
 
   erpnext-image: &erpnext_image
-    image: dantedevenir/sierra-group:0.0.0.22
+    image: dantedevenir/sierra-group:0.0.0.24
     platform: linux/amd64
     pull_policy: always
       
